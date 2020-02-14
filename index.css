@@ -75,13 +75,20 @@ position: relative;
 bottom: 20px;
 left: 20px;
 position: absolute;
-
+font-family: sans-serif;
+text-shadow: 2px 2px  black;
 }
 
 .main-title {
 color: white;
 font-size: 3.0em;
 margin-bottom: 0px;
+}
+
+.main-section-img{
+    height: 100%;
+    width:100%;
+    object-fit: cover;
 }
 .main-description {
     color: white;
