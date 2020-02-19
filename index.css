@@ -128,3 +128,51 @@ display: flex;
     border-radius: 10px;
     box-shadow: 2px 4px 4px #888;
 }
+
+.contact-section h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contact-section{
+    background-color: darkcyan;
+    padding:2px;    
+    margin-top: 15px;
+}
+.data-container{
+    width: 320px;
+    margin: auto;
+}
+
+.label{
+
+}
+
+.data-box{
+    padding: 10px;
+    font-family: sans-serif;
+
+}
+
+.boxes{
+    border-radius: 5px;
+    width: 300px;
+}
+
+.send-button{
+    width: 100%;
+    padding: 2px;
+}
+
+.contact-button{
+    background-color: aqua;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 270px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    text-align: center;
+    font-family: sans-serif;
+}
